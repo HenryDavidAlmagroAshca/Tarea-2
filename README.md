@@ -18,7 +18,7 @@ SECCIÓN 3–1 La relación de corriente, voltaje y resistencia
 1: En un circuito compuesto de una fuente de voltaje y un resistor, describa qué le sucede a la corriente cuando
 
     (a) El voltaje se triplica
-          Con la ley de ohm se obtiene que la corriente tambien se triplicara
+          Con la ley de OHM se obtiene que la corriente tambien se triplicara
     (b) El voltaje se reduce en 75%
           Igual que el caso anterior, la corriente se reducira un 75%
     (c) La resistencia se duplica
@@ -32,16 +32,29 @@ SECCIÓN 3–1 La relación de corriente, voltaje y resistencia
         
 3: Enuncie la fórmula utilizada para encontrar V cuando los valores de I y R son conocidos
 
+    Ley de OHM V=R*I
+
 5: Se conecta una fuente de voltaje variable al circuito de la figura 3-18. Comience con 0 V e incremente el voltaje, en pasos de 10 V, hasta 100 V. Determine la corriente en cada voltaje y trace una gráfica de V contra I. ¿Es la gráfica una línea recta? ¿Qué indica la gráfica?
+
+   ![image](https://user-images.githubusercontent.com/116781677/202324387-be1a9b33-f1af-418b-88f2-30dc8e336d7a.png)
 
 7: La figura 3-19 es una gráfica de corriente contra voltaje para tres valores de resistencia. Determine R1, R2 y R3.
 
+   ![image](https://user-images.githubusercontent.com/116781677/202324434-e5c1fef8-a4f9-48b1-827c-410241b0b95c.png)
+
 9: Trace la relación corriente-voltaje para un resistor de cinco bandas con código de colores café, verde, gris, café, rojo.
+
+   ![image](https://user-images.githubusercontent.com/116781677/202324483-9e9425e4-d5e6-4d2f-a0de-e594662f004f.png)
 
 11: Se mide la corriente en un circuito que opera con una batería de 10 V. El amperímetro lee 50 mA. Más tarde, se observa que la corriente cae a 30 mA. Eliminando la posibilidad de un cambio de resistencia, debe concluirse que el voltaje ha cambiado. ¿Cuánto ha cambiado el voltaje de la batería y cuál es su nuevo valor?
 
-13: Trace una gráfica de corriente contra voltaje con valores de voltaje que vayan de 10 a 100 V, en incrementos de 10 V, para cada uno de los siguientes valores de resistencia:
+   ![image](https://user-images.githubusercontent.com/116781677/202324510-3414a8ac-e914-4a07-ad26-c9faa40949a2.png)
 
+13: Trace una gráfica de corriente contra voltaje con valores de voltaje que vayan de 10 a 100 V, en incrementos de 10 V, para cada uno de los siguientes valores de resistencia:
+    
+    1.0 ohms 5.0 ohms 20 ohms 100 ohms
+   ![image](https://user-images.githubusercontent.com/116781677/202324541-6790a71c-d95a-4321-9c70-b29698a6cb8f.png)
+    
 SECCIÓN 3–2 Cálculo de la corriente
 
 15. Determine la corriente en cada caso:
