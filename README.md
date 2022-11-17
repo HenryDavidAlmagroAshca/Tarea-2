@@ -108,14 +108,20 @@ SECCIÓN 3–4 Cálculo de la resistencia
 
 # 5. CONCLUSIONES
 
-    La ley de ohm es de los temas mas importantes para el calculo de valores en un cirtuito
+    La ley de ohm es de los temas mas importantes para el calculo de valores en un cirtuito.
     
     Es muy importante conocer los principios basicos de teoria de relacion entre las "variables" que son voltaje, resistencia 
-    e intensidad antes de llevarlo a la practica con un circuito fisico
+    e intensidad antes de llevarlo a la practica con un circuito fisico.
     
     La logica tambien sera importante en este tema, debido a que con datos relacionados debemos obtener una o varias incognitas,
     es decir que debemos cumplir con los objetivos generales de obtener la resistencia, el voltaje y la intensidad de cualquie 
     circuito, con la logica y la ley de ohm relacionamos los tres aspectos y asi obtener la o las incognitas.
 
 # 6. BIBLIOGRAFIA
+
+-Floyd, T. L. (2007). Principios de circuitos eléctricos (Octava ed.). México: Pearson Educación. Recuperado el Noviembre de 2022
+
+-https://www.mindmeister.com
+
+-FLUKE. (s.f.). Recuperado el Noviembre de 2022, de ¿Qué es la ley de Ohm?: https://www.fluke.com/es-ec/informacion/blog/electrica/que-es-la-ley-de-
 
