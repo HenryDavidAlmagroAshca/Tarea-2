@@ -9,9 +9,11 @@
 
 # 2. MARCO TEÓRICO (RESUMEN)
 
+![image](https://user-images.githubusercontent.com/116781677/202356177-abe83630-f3c3-41e8-b828-2f7aed986327.png)
+
+![image](https://user-images.githubusercontent.com/116781677/202360362-5e3f85f9-4ba5-4c05-affb-9294e099f4dc.png)
 
 # 3. RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
-
 
 SECCIÓN 3–1 La relación de corriente, voltaje y resistencia
 
