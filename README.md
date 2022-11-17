@@ -4,8 +4,13 @@
 
 -Objetivo General
 
+    Estudiar y entender las relaciones en tres conceptos principales, voltaje, resistencia e intensidad de corriente
+
 -Objetivos Especificos
 
+    Calcular la corriente en un circuito
+    Calcular el voltaje en un circuito
+    Calcular la resistencia en un circuito
 
 # 2. MARCO TEÓRICO (RESUMEN)
 
@@ -102,6 +107,15 @@ SECCIÓN 3–4 Cálculo de la resistencia
 # 4. VIDEO
 
 # 5. CONCLUSIONES
+
+    La ley de ohm es de los temas mas importantes para el calculo de valores en un cirtuito
+    
+    Es muy importante conocer los principios basicos de teoria de relacion entre las "variables" que son voltaje, resistencia 
+    e intensidad antes de llevarlo a la practica con un circuito fisico
+    
+    La logica tambien sera importante en este tema, debido a que con datos relacionados debemos obtener una o varias incognitas,
+    es decir que debemos cumplir con los objetivos generales de obtener la resistencia, el voltaje y la intensidad de cualquie 
+    circuito, con la logica y la ley de ohm relacionamos los tres aspectos y asi obtener la o las incognitas.
 
 # 6. BIBLIOGRAFIA
 
