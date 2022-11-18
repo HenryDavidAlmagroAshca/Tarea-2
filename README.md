@@ -106,6 +106,8 @@ SECCIÓN 3–4 Cálculo de la resistencia
 
 # 4. VIDEO
 
+https://youtu.be/UxF4CP-wQWk
+
 # 5. CONCLUSIONES
 
     La ley de ohm es de los temas mas importantes para el calculo de valores en un cirtuito.
